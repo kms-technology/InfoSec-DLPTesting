@@ -1,2 +1,0 @@
-Hello world!
-Project Name: abcd
